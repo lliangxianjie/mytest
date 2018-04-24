@@ -1,0 +1,15 @@
+server:
+  port: 7907
+spring:
+  application:
+      name: microservice-consumer
+  eureka:
+    client:
+         defaultZone: http://localhost:8761/eureka
+
+    instance:
+        prefer-ip-address: true
+        instance-id: ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}
+feign:
+  hystrix:
+    enabled: true

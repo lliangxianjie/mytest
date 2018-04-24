@@ -1,0 +1,16 @@
+server:
+  port: 8070
+spring:
+  application:
+    name: microservice-sidecar
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    instance:
+              prefer-ip-address: true
+              instance-id: ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}
+sidecar:
+  port: 8060
+  health-uri:  http://localhost:8060/health.json
+

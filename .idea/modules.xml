@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-comsumer/demo-comsumer.iml" filepath="$PROJECT_DIR$/demo-comsumer/demo-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-comsumer-fegin/demo-comsumer-fegin.iml" filepath="$PROJECT_DIR$/demo-comsumer-fegin/demo-comsumer-fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-comsumer-fegin-customizing/demo-comsumer-fegin-customizing.iml" filepath="$PROJECT_DIR$/demo-comsumer-fegin-customizing/demo-comsumer-fegin-customizing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-comsumer-fegin-hystix-fallback/demo-comsumer-fegin-hystix-fallback.iml" filepath="$PROJECT_DIR$/demo-comsumer-fegin-hystix-fallback/demo-comsumer-fegin-hystix-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-comsumer-fegin-hystix-fallback-stream/demo-comsumer-fegin-hystix-fallback-stream.iml" filepath="$PROJECT_DIR$/demo-comsumer-fegin-hystix-fallback-stream/demo-comsumer-fegin-hystix-fallback-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-comsumer-fegin-hystrix-fallback-factory/demo-comsumer-fegin-hystrix-fallback-factory.iml" filepath="$PROJECT_DIR$/demo-comsumer-fegin-hystrix-fallback-factory/demo-comsumer-fegin-hystrix-fallback-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-parent.iml" filepath="$PROJECT_DIR$/demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-provider/demo-provider.iml" filepath="$PROJECT_DIR$/demo-provider/demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-provider1/demo-provider1.iml" filepath="$PROJECT_DIR$/demo-provider1/demo-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-register/demo-register.iml" filepath="$PROJECT_DIR$/demo-register/demo-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ribbon/demo-ribbon.iml" filepath="$PROJECT_DIR$/demo-ribbon/demo-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ribbon-hystrix/demo-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/demo-ribbon-hystrix/demo-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domo-gateway-zuul/domo-gateway-zuul.iml" filepath="$PROJECT_DIR$/domo-gateway-zuul/domo-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domo-gateway-zuul-aggregation/domo-gateway-zuul-aggregation.iml" filepath="$PROJECT_DIR$/domo-gateway-zuul-aggregation/domo-gateway-zuul-aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ribbon-hystrix/domo-hystix-dashboard.iml" filepath="$PROJECT_DIR$/demo-ribbon-hystrix/domo-hystix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domo-hystrix-dashboard/domo-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/domo-hystrix-dashboard/domo-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domo-hystrix-turbine/domo-hystrix-turbine.iml" filepath="$PROJECT_DIR$/domo-hystrix-turbine/domo-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domo-sidecar/domo-sidecar.iml" filepath="$PROJECT_DIR$/domo-sidecar/domo-sidecar.iml" />
+    </modules>
+  </component>
+</project>

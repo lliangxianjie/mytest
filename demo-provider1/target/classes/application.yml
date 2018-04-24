@@ -1,0 +1,28 @@
+server:
+  port: 7903
+spring:
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    datasoure:
+    database-platform: org.hibernate.dialect.H2Dialect
+    schema: classpath:schema.sql
+    data: classpath:data.sql
+
+    logging:
+    level:
+       root: INFO
+       org.hibernate: INFO
+  application:
+        name: microservice-provider
+
+  ureka:
+        client:
+             defaultZone: http://localhost:8761/eureka
+
+        instance:
+            prefer-ip-address: true
+            instance-id: ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}
+

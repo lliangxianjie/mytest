@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-comsumer" />
+        <module name="demo-comsumer-fegin" />
+        <module name="demo-comsumer-fegin (1)" />
+        <module name="demo-comsumer-fegin-customizing" />
+        <module name="demo-comsumer-fegin-hystix-fallback" />
+        <module name="demo-comsumer-fegin-hystix-fallback-stream" />
+        <module name="demo-comsumer-fegin-hystrix-fallback-factory" />
+        <module name="demo-provider" />
+        <module name="demo-provider (1)" />
+        <module name="demo-provider1" />
+        <module name="demo-register" />
+        <module name="demo-ribbon" />
+        <module name="demo-ribbon (1)" />
+        <module name="demo-ribbon-hystrix" />
+        <module name="domo-gateway-zuul" />
+        <module name="domo-gateway-zuul (1)" />
+        <module name="domo-hystix-dashboard" />
+        <module name="domo-hystrix-dashboard" />
+        <module name="domo-hystrix-turbine" />
+        <module name="domo-sidecar" />
+        <module name="domoribbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-comsumer" target="1.8" />
+      <module name="demo-comsumer-fegin" target="1.8" />
+      <module name="demo-comsumer-fegin (1)" target="1.8" />
+      <module name="demo-comsumer-fegin-customizing" target="1.8" />
+      <module name="demo-comsumer-fegin-hystix-fallback" target="1.8" />
+      <module name="demo-comsumer-fegin-hystix-fallback-stream" target="1.8" />
+      <module name="demo-comsumer-fegin-hystrix-fallback-factory" target="1.8" />
+      <module name="demo-parent" target="1.8" />
+      <module name="demo-provider" target="1.8" />
+      <module name="demo-provider (1)" target="1.8" />
+      <module name="demo-provider1" target="1.8" />
+      <module name="demo-register" target="1.8" />
+      <module name="demo-ribbon" target="1.8" />
+      <module name="demo-ribbon (1)" target="1.8" />
+      <module name="demo-ribbon-hystrix" target="1.8" />
+      <module name="domo-gateway-zuul" target="1.8" />
+      <module name="domo-gateway-zuul (1)" target="1.8" />
+      <module name="domo-hystix-dashboard" target="1.8" />
+      <module name="domo-hystrix-dashboard" target="1.8" />
+      <module name="domo-hystrix-turbine" target="1.8" />
+      <module name="domo-sidecar" target="1.8" />
+      <module name="domoribbon" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

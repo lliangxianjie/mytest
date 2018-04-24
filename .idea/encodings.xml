@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-comsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-comsumer-fegin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-comsumer-fegin-customizing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-comsumer-fegin-hystix-fallback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-comsumer-fegin-hystix-fallback-stream" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-comsumer-fegin-hystrix-fallback-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-ribbon-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domo-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domo-gateway-zuul-aggregation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domo-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domo-hystrix-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domo-sidecar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domoribbon" charset="UTF-8" />
+  </component>
+</project>
